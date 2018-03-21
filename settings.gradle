@@ -1,0 +1,1 @@
+include ':app', ':test2.1', ':listviewtest', ':broadcast&receiver', ':forceoffline', ':data', ':contentprovider', ':notificationtest', ':cameraalbumtest', ':videoview', ':webview', ':service'

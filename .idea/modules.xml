@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Book.iml" filepath="$PROJECT_DIR$/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast&amp;receiver/broadcast&amp;receiver.iml" filepath="$PROJECT_DIR$/broadcast&amp;receiver/broadcast&amp;receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraalbumtest/cameraalbumtest.iml" filepath="$PROJECT_DIR$/cameraalbumtest/cameraalbumtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forceoffline/forceoffline.iml" filepath="$PROJECT_DIR$/forceoffline/forceoffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationtest/notificationtest.iml" filepath="$PROJECT_DIR$/notificationtest/notificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2.1/test2.1.iml" filepath="$PROJECT_DIR$/test2.1/test2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoview/videoview.iml" filepath="$PROJECT_DIR$/videoview/videoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
+    </modules>
+  </component>
+</project>
